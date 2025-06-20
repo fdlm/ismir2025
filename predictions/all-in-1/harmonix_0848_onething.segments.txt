@@ -1,0 +1,12 @@
+0.0	0.41	start
+0.41	19.31	verse
+19.31	34.43	verse
+34.43	49.55	verse
+49.55	72.23	chorus
+72.23	87.35	verse
+87.35	102.46	verse
+102.46	117.58	chorus
+117.58	136.48	chorus
+136.48	159.16	bridge
+159.16	174.28	chorus
+174.28	197.19	chorus

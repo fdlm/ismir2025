@@ -1,0 +1,14 @@
+0.000	2.125	silence
+2.125	20.180	Head
+20.180	46.415	Transition
+46.415	54.483	Transition
+54.483	136.139	Solo
+136.139	144.065	Transition
+144.065	226.592	Solo
+226.592	234.906	Transition
+234.906	253.232	Head
+253.232	261.290	Transition
+261.290	394.446	Solo
+394.446	403.278	Transition
+403.278	432.105	Head
+432.105	470.909	no_function

@@ -1,0 +1,12 @@
+0.000	0.020	Silence
+0.020	0.020	Main_Theme
+0.020	24.706	Theme
+24.706	55.304	Transition
+55.304	55.304	Main_Theme
+55.304	76.893	Theme
+76.893	98.543	Transition
+98.543	98.543	Secondary_Theme
+98.543	120.368	Theme
+120.368	120.368	Fade-out
+120.368	138.204	out
+138.204	142.176	Silence

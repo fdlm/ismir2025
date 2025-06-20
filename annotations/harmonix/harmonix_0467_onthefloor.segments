@@ -1,0 +1,12 @@
+0.000	0.020	silence
+0.020	25.866	intro
+25.866	36.943	vocalintro
+36.943	73.866	verse
+73.866	92.327	quietchorus
+92.327	107.097	chorus
+107.097	144.019	verse
+144.019	162.481	quietchorus
+162.481	177.250	chorus
+177.250	192.019	bridge
+192.019	213.250	chorus
+213.250	213.597	end

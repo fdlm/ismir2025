@@ -1,0 +1,7 @@
+0.0	0.23	start
+0.23	23.6	verse
+23.6	40.06	chorus
+40.06	59.79	solo
+59.79	79.78	chorus
+79.78	91.99	chorus
+91.99	106.82	outro

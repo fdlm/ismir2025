@@ -1,0 +1,14 @@
+0.000	0.123	silence
+0.123	15.487	chorus
+15.487	34.687	chorus
+34.687	50.047	postchorus
+50.047	65.407	verse
+65.407	73.087	prechorus
+73.087	92.287	chorus
+92.287	107.647	postchorus
+107.647	123.007	verse
+123.007	130.687	prechorus
+130.687	161.407	chorus
+161.407	186.367	bridge
+186.367	224.767	postchorus
+224.767	226.912	end

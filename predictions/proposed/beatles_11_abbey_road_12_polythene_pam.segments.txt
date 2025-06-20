@@ -1,0 +1,9 @@
+0.000	0.150	silence
+0.150	6.300	intro
+6.300	17.750	verse
+17.750	26.500	chorus
+26.500	43.500	chorus
+43.500	47.000	chorus
+47.000	61.000	chorus
+61.000	72.550	chorus
+72.550	72.750	silence

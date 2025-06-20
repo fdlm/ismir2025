@@ -1,0 +1,11 @@
+0.000	0.991	silence
+0.991	22.307	intro
+22.307	42.888	verse
+42.888	56.666	long_connector
+56.666	87.986	bridge
+87.986	108.746	verse
+108.746	115.623	short_connector
+115.623	132.880	bridge
+132.880	155.125	verse
+155.125	162.893	outro
+162.893	162.926	silence

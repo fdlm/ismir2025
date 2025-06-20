@@ -1,0 +1,14 @@
+0.000	0.279	Silence
+0.279	39.822	Head
+39.822	46.559	no_function
+46.559	53.403	Transition
+53.403	80.090	no_function
+80.090	93.367	no_function
+93.367	120.501	Transition
+120.501	199.404	Solo
+199.404	205.876	no_function
+205.876	212.599	Transition
+212.599	251.518	Outro
+251.518	256.093	break
+256.093	275.323	no_function
+275.323	280.265	Silence

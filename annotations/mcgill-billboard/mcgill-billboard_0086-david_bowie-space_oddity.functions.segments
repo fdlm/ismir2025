@@ -1,0 +1,11 @@
+0.000	1.355	silence
+1.355	29.229	fadein
+29.229	50.776	verse
+50.776	83.148	verse
+83.148	155.649	chorus
+155.649	183.072	instrumental
+183.072	247.442	chorus
+247.442	271.242	instrumental
+271.242	284.709	outro
+284.709	311.608	fadeout
+311.608	315.093	silence

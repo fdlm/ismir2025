@@ -1,0 +1,16 @@
+0.0	0.32	chorus
+0.32	22.09	chorus
+22.09	36.0	verse
+36.0	49.91	verse
+49.91	63.83	chorus
+63.83	77.75	solo
+77.75	91.65	bridge
+91.65	104.69	verse
+104.69	119.49	chorus
+119.49	133.4	chorus
+133.4	156.87	bridge
+156.87	171.67	chorus
+171.67	185.59	chorus
+185.59	209.94	chorus
+209.94	222.09	outro
+222.09	222.1	end

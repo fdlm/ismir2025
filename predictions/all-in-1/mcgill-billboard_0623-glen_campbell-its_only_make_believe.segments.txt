@@ -1,0 +1,9 @@
+0.0	0.43	start
+0.43	20.35	verse
+20.35	37.3	verse
+37.3	58.67	chorus
+58.67	71.44	verse
+71.44	96.85	chorus
+96.85	122.3	chorus
+122.3	138.12	chorus
+138.12	147.34	end

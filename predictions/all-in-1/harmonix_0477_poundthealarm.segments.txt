@@ -1,0 +1,12 @@
+0.0	1.18	chorus
+1.18	18.47	chorus
+18.47	49.19	verse
+49.19	68.39	chorus
+68.39	83.76	chorus
+83.76	114.47	verse
+114.47	133.67	chorus
+133.67	149.03	chorus
+149.03	164.39	inst
+164.39	182.63	chorus
+182.63	198.95	chorus
+198.95	203.19	chorus

@@ -1,0 +1,16 @@
+0.000	0.113	silence
+0.113	16.857	verse
+16.857	28.039	prechorus
+28.039	50.386	chorus
+50.386	61.549	postchorus
+61.549	72.751	verse
+72.751	83.923	prechorus
+83.923	106.249	chorus
+106.249	128.574	postchorus
+128.574	139.737	break
+139.737	156.494	verse
+156.494	167.670	prechorus
+167.670	190.029	chorus
+190.029	209.560	postchorus
+209.560	221.495	fadeout
+221.495	222.235	end

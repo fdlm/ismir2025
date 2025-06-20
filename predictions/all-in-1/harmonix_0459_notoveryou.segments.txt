@@ -1,0 +1,13 @@
+0.0	0.06	start
+0.06	13.59	intro
+13.59	43.97	verse
+43.97	57.47	chorus
+57.47	81.1	chorus
+81.1	114.18	verse
+114.18	127.7	chorus
+127.7	143.57	chorus
+143.57	168.9	bridge
+168.9	182.41	chorus
+182.41	197.59	chorus
+197.59	212.77	outro
+212.77	214.56	end

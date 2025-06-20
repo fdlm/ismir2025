@@ -1,0 +1,5 @@
+0.000	0.050	silence
+0.050	6.200	chorus
+6.200	19.600	chorus
+19.600	38.150	chorus
+38.150	38.200	silence

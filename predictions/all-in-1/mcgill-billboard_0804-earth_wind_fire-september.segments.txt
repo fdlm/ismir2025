@@ -1,0 +1,10 @@
+0.0	0.22	intro
+0.22	19.13	intro
+19.13	35.1	verse
+35.1	51.05	verse
+51.05	66.54	chorus
+66.54	81.55	verse
+81.55	97.51	verse
+97.51	128.48	chorus
+128.48	144.91	chorus
+144.91	147.63	chorus

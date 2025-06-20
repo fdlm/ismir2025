@@ -1,0 +1,9 @@
+0.000	0.255	silence
+0.255	17.511	intro
+17.511	52.543	verse
+52.543	86.998	verse
+86.998	119.292	chorus
+119.292	153.127	verse
+153.127	200.567	chorus
+200.567	218.501	chorus,fadeout
+218.501	221.600	silence

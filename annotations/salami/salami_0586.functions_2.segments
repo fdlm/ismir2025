@@ -1,0 +1,12 @@
+0.000	0.221	Silence
+0.221	4.594	Intro
+4.594	42.010	no_function
+42.010	46.242	Head
+46.242	66.720	no_function
+66.720	74.850	Bridge
+74.850	83.015	no_function
+83.015	87.288	Head
+87.288	131.664	no_function
+131.664	131.664	Fade-out
+131.664	140.833	Outro
+140.833	140.833	End

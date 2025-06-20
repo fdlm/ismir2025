@@ -1,0 +1,14 @@
+0.0	1.61	chorus
+1.61	16.61	chorus
+16.61	31.61	chorus
+31.61	57.85	verse
+57.85	76.61	chorus
+76.61	91.61	chorus
+91.61	121.61	verse
+121.61	136.61	chorus
+136.61	151.61	chorus
+151.61	166.61	bridge
+166.61	181.61	chorus
+181.61	206.93	chorus
+206.93	224.98	outro
+224.98	225.0	outro
